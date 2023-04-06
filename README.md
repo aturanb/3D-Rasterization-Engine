@@ -2,7 +2,7 @@
 
 Developed a Rasterization Engine with a Phong model. The data set is of an aneurysm and the colors correspond to pressure on the artery.
 
-![](https://github.com/aturanb/3D-Rasterization-Engine/out_aneurysm.gif)
+![](https://github.com/aturanb/3D-Rasterization-Engine/blob/main/out_aneurysm.gif)
 
 ## Run
 
